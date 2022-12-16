@@ -1,10 +1,10 @@
 # skku-sw-winter
 
-### Hello World
+# Hello World
 
 -------- 
 
-# how to run server?
+### how to run server?
 
 `cd build/libs`
 
